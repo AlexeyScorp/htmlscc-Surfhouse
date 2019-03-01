@@ -1,0 +1,147 @@
+.header {
+	height: 700px;
+}
+header {
+	min-height: 682px;
+	max-height: 700px;
+}
+.box_welcome {
+	height: 300px;
+	margin-top: 336px;
+}
+h1 {
+	margin-top: 80px;
+}
+.box_welcome p {
+	font-family: raleway-bo-i, sans-serif;
+	font-size: 18px;
+	line-height: 14px;
+	margin-top: 20px;
+	letter-spacing: 0.2px;
+}
+.slide_box {
+	width: 1170px;
+	height: 700px;
+	margin: auto;
+}
+.fon_slide {
+	background: url('../images/slide_box/surfing-boards.jpg') center no-repeat;
+	background-size: 100%;
+}
+.title_slide {
+	position: absolute;
+	width: 313px;
+	height: 169px;
+	top: 243px;
+	left: 748px;
+	color: #fff51f;
+	text-align: left;
+}
+.title_slide_h_text {
+	font-family: raleway-re, sans-serif;
+	font-weight: bolder;
+	font-size: 48px;
+	line-height: 34px;
+	text-transform: uppercase;
+	margin-bottom: 0;
+}
+.title_slide_text {
+	font-family: raleway-ex-bo, sans-serif;
+	font-size: 18px;
+	line-height: 24px;
+	margin-bottom: 62px;
+	margin-top: 8px;
+}
+.title_slide button {
+	background-color: #fff51f;
+	width: 124px;
+	height: 49px;
+	font-family: raleway-ex-bo, sans-serif;
+	color: #333333;
+	font-size: 14px;
+	text-align: center;
+	border-color: #ffffff;
+	transition: 0.5s all;
+}
+.title_slide button:hover {
+	cursor: pointer;
+	border-color: transparent;
+	box-shadow: inset 0 0 3px 3px #75e3fe;
+	color: #75e3fe;
+	background: #333333;
+	transition: 0.5s all;
+}
+.brand_block {
+	position: relative;
+	background: url('../images/index/brands.png') no-repeat center,
+	#ffffff;
+	background-size: 100%;
+	width: 1170px;
+	height: 160px;
+}
+.insta_block {
+	position: relative;
+	background-color: #eaeaea;
+	width: 1170px;
+	height: 350px;
+}
+.insta_block_logo {
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 105px;
+}
+.insta_block_logo a {
+	display: inline-block;
+	text-decoration: none;
+}
+.insta_block_logo a:hover * {
+	color: #ffffff;
+	text-shadow: 0 0 6px #333333;
+	transition: 0.5s all;
+}
+.insta_block_logo i {
+	color: #333333;
+	font-size: 28px;
+	vertical-align: sub;
+}
+.insta_block_logo span {
+	font-family: roboto-bl-i, sans-serif;
+	color: #333333;
+	font-style: italic;
+	text-align: left;
+}
+.insta_block_logo_source {
+	display: inline-table;
+	vertical-align: bottom;
+	height: 28px;
+	font-size: 22px;
+}
+.insta_block_logo_hashtag {
+	font-size: 18px;
+	padding-bottom: 30px;
+	margin-bottom: 28px;
+	border-bottom-width: 2px;
+}
+.insta_block_img {
+	display: flex;
+	justify-content: space-between;
+	height: 185px;
+}
+.insta_img {
+	display: inline-block;
+	height: 185px;
+	width: 185px;
+	max-height: 185px;
+	max-width: 185px;
+	background: #ffffff;
+	transition: 0.2s all;
+}
+.insta_img a {
+	display: block;
+	height: 100%;
+}
+.insta_img:hover {
+	opacity: 0.5;
+}

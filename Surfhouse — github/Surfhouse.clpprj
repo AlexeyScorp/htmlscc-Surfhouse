@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\Users\Alexey Scorp\Desktop\surfhouse\Surfhouse.clpprj">
+	<settings><PM_URL><![CDATA[D:\Web\]]></PM_URL><PM_HOME_URL><![CDATA[D:\Web\]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";C:\Users\Alexey Scorp\Desktop\surfhouse\packages\bootstrap-3.3.7;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\bootstrap-3.3.7\css;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\bootstrap-3.3.7\css\bootstrap-theme.css;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\bootstrap-3.3.7\css\bootstrap-theme.min.css;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\bootstrap-3.3.7\css\bootstrap.css;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\bootstrap-3.3.7\css\bootstrap.min.css;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\bootstrap-3.3.7\fonts;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\bootstrap-3.3.7\js;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\bootstrap-3.3.7\js\bootstrap.js;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\bootstrap-3.3.7\js\bootstrap.min.js;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\bootstrap-3.3.7\js\npm.js;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\HELP-US-OUT.txt;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\css;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\css\font-awesome.css;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\css\font-awesome.min.css;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\fonts;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\less;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\less\animated.less;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\less\bordered-pulled.less;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\less\core.less;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\less\fixed-width.less;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\less\font-awesome.less;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\less\icons.less;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\less\larger.less;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\less\list.less;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\less\mixins.less;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\less\path.less;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\less\rotated-flipped.less;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\less\screen-reader.less;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\less\stacked.less;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\less\variables.less;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\scss;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\scss\_animated.scss;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\scss\_bordered-pulled.scss;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\scss\_core.scss;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\scss\_fixed-width.scss;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\scss\_icons.scss;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\scss\_larger.scss;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\scss\_list.scss;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\scss\_mixins.scss;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\scss\_path.scss;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\scss\_rotated-flipped.scss;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\scss\_screen-reader.scss;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\scss\_stacked.scss;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\scss\_variables.scss;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\scss\font-awesome.scss;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\whhg-font;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\whhg-font\css;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\whhg-font\css\whhg.css;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\whhg-font\custom.js;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\whhg-font\example.html;C:\Users\Alexey Scorp\Desktop\surfhouse\packages\whhg-font\font;"/><added value=""/><lastopfiles>
+		<file name="C:\Users\Alexey Scorp\Desktop\surfhouse\index.html"/>
+		<file name="C:\Users\Alexey Scorp\Desktop\surfhouse\packages\font-awesome-4.7.0\css\font-awesome.min.css"/>
+		<file name="C:\Users\Alexey Scorp\Desktop\surfhouse\packages\whhg-font\css\whhg.css"/>
+		<file name="C:\Users\Alexey Scorp\Desktop\surfhouse\styles\style.css"/>
+		<file name="C:\Users\Alexey Scorp\Desktop\surfhouse\styles\header.css"/>
+		<file name="C:\Users\Alexey Scorp\Desktop\surfhouse\styles\left_main.css"/>
+		<file name="C:\Users\Alexey Scorp\Desktop\surfhouse\styles\footer.css"/>
+		<file name="C:\Users\Alexey Scorp\Desktop\surfhouse\styles\fonts.css"/>
+		<file name="C:\Users\Alexey Scorp\Desktop\surfhouse\styles\product_nav_fon_img.css"/>
+		<file name="C:\Users\Alexey Scorp\Desktop\surfhouse\styles\index_main.css"/>
+		<file name="C:\Users\Alexey Scorp\Desktop\surfhouse\Test\test.css"/>
+		<file name="C:\Users\Alexey Scorp\Desktop\surfhouse\contakt.html"/>
+		<file name="C:\Users\Alexey Scorp\Desktop\surfhouse\styles\contakt.css"/>
+		<file name="C:\Users\Alexey Scorp\Desktop\surfhouse\packages\bootstrap-3.3.7\css\bootstrap.min.css"/>
+	</lastopfiles>
+	<errors version="5.11">
+	</errors>
+	<cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+		<todofile name="C:\Users\Alexey Scorp\Desktop\surfhouse\packages\bootstrap-3.3.7\js\bootstrap.js">
+			<todo name="TODO: Check whether guarding this code with this `if` is really necessary." pos="28;1575"/>
+		</todofile>
+	</todoblock>
+	<filescache>
+		<file name="C:\Users\Alexey Scorp\Desktop\surfhouse\Test\test.css" crc="1494270180"/>
+		<file name="C:\Users\Alexey Scorp\Desktop\surfhouse\styles\style.css" crc="1494697974"/>
+		<file name="C:\Users\Alexey Scorp\Desktop\surfhouse\styles\product_nav_fon_img.css" crc="1494387112"/>
+		<file name="C:\Users\Alexey Scorp\Desktop\surfhouse\styles\left_main.css" crc="1494499443"/>
+		<file name="C:\Users\Alexey Scorp\Desktop\surfhouse\styles\index_main.css" crc="1494673702"/>
+		<file name="C:\Users\Alexey Scorp\Desktop\surfhouse\styles\header.css" crc="1494673709"/>
+		<file name="C:\Users\Alexey Scorp\Desktop\surfhouse\styles\footer.css" crc="1494682455"/>
+		<file name="C:\Users\Alexey Scorp\Desktop\surfhouse\styles\fonts.css" crc="1494499236"/>
+		<file name="C:\Users\Alexey Scorp\Desktop\surfhouse\styles\contakt.css" crc="1494700825"/>
+		<file name="C:\Users\Alexey Scorp\Desktop\surfhouse\index.html" crc="1494701095"/>
+		<file name="C:\Users\Alexey Scorp\Desktop\surfhouse\contakt.html" crc="1494701288"/>
+	</filescache>
+</project>

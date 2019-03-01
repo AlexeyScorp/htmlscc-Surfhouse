@@ -1,0 +1,40 @@
+@font-face {
+	font-family: raleway-bl-i;
+	src: url('../fonts/raleway/Raleway-Black-Italic.ttf')
+}
+@font-face {
+	font-family: raleway-bl;
+	src: url('../fonts/raleway/Raleway-Black.ttf')
+}
+@font-face {
+	font-family: raleway-bo;
+	src: url('../fonts/raleway/Raleway-Bold.ttf')
+}
+@font-face {
+	font-family: raleway-bo-i;
+	src: url('../fonts/raleway/Raleway-Bold-Italic.ttf')
+}
+@font-face {
+	font-family: raleway-re;
+	src: url('../fonts/raleway/Raleway-Regular.ttf')
+}
+@font-face {
+	font-family: raleway-ex-bo;
+	src: url('../fonts/raleway/Raleway-ExtraBold.ttf')
+}
+@font-face {
+	font-family: roboto-bl-i;
+	src: url('../fonts/roboto/Roboto-Black.ttf')
+}
+@font-face {
+	font-family: roboto-bl;
+	src: url('../fonts/roboto/Roboto-BlackItalic.ttf')
+}
+@font-face {
+	font-family: roboto-bo;
+	src: url('../fonts/roboto/Roboto-Bold.ttf')
+}
+@font-face {
+	font-family: roboto-re;
+	src: url('../fonts/roboto/Roboto-Regular.ttf')
+}

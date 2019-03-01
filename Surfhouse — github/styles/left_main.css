@@ -1,0 +1,147 @@
+.left_container {
+	position: relative;
+	float: left;
+	width: 270px;
+}
+.left_container div {
+	display: inline-block;
+	position: absolute;
+}
+.title_menu {
+	background-color: #333333;
+	height: 66px;
+	width: 100%;
+}
+.title_menu span {
+	font-family: roboto-bo, sans-serif;
+	color: #ffffff;
+	font-size: 14px;
+	line-height: 32px;
+	text-align: left;
+	text-transform: uppercase;
+	padding: 23px 0 0 42px;
+	position: absolute;
+}
+nav {
+	position: relative;
+	margin-top: 66px;
+}
+nav * {
+	font-family: roboto-bo, sans-serif;
+	color: #333333;
+	font-size: 14px;
+	line-height: 32px;
+	text-align: left;
+	padding: 0;
+	text-transform: uppercase;
+	text-decoration: none;
+	list-style-type: none;
+}
+nav > ol {
+	position: relative;
+	margin-top: 0;
+}
+nav ol {
+	z-index: 1;
+}
+nav li {
+	position: relative;
+	background: #75e3fe;
+	height: 43px;
+	transition: 0.2s all;
+}
+nav li:hover {
+	background: #333333;
+	color: #ffffff;
+}
+nav li:hover .second_menu,
+.second_menu li:hover .third_menu {
+	visibility: visible;
+}
+nav li:hover .third_menu:before,
+nav:hover .second_menu:before  {
+	visibility: visible;
+}
+nav a {
+	display: block;
+	padding-top: 7px;
+	color: inherit;
+}
+nav > ol > li > a {
+	padding-left: 40px;
+}
+.second_menu,
+.third_menu {
+	visibility: hidden;
+	position: absolute;
+	left: 100%;
+	top: 0;
+
+}
+.second_menu {
+	min-width: 155px;
+}
+.third_menu {
+	min-width: 165px;
+}
+.second_menu a,
+.third_menu a {
+	padding-left: 14px;
+}
+.second_menu a:before {
+	content: ' ';
+	background: url('../images/menu/item.png') no-repeat center center;
+	display: inline-block;
+	height: 11px;
+	width: 13px;
+}
+.second_menu:before,
+.third_menu:before {
+	content: ' ';
+	background: url('../images/menu/third_menu.png') no-repeat center center;
+	background-size: 65%;
+	position: absolute;
+	display: inline-block;
+	height: 11px;
+	width: 13px;
+	top: 16px;
+	left: -25px;
+	z-index: 1;
+}
+.left_container .box_advertising {
+	position: relative;
+	display: flex;
+	margin: 30px 0;
+	background-color: #e0e0e0;
+	width: 270px;
+	height: 300px;
+}
+.left_container .box_advertising a {
+	display: block;
+	margin: auto 6px auto 6px;
+	transition: 0.2s opacity;
+}
+.left_container .box_advertising a img {
+	max-width: 100%;
+	max-height: 100%;
+	box-shadow: inherit;
+	opacity: 0.8;
+}
+.left_container .box_advertising a:hover {
+	opacity: 0.5;
+}
+.left_container .box_advertising p {
+	position: absolute;
+	display: inline-block;
+	font-family: raleway-bl-i, sans-serif;
+	color: #333333;
+	font-size: 36px;
+	line-height: 36px;
+	text-align: left;
+	width: 121px;
+	max-height: 169px;
+	left: 143px;
+	top: 125px;
+	margin: 0;
+	text-transform: uppercase;
+}

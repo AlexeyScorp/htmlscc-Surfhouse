@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="description" content="Sale of surfboards">
+		<meta name="keywords" content="Shop, Surfing, Sale, Board">
+		<meta name="author" content="Alexey Scorp">
+		<link rel="stylesheet" href="packages/font-awesome-4.7.0/css/font-awesome.min.css">
+		<link rel="stylesheet" href="styles/style.css">
+		<link rel="stylesheet" href="styles/header.css">
+		<link rel="stylesheet" href="styles/left_main.css">
+		<link rel="stylesheet" href="styles/footer.css">
+		<link rel="stylesheet" href="styles/fonts.css">
+		<link rel="stylesheet" href="styles/product_nav_fon_img.css">
+		<link rel="stylesheet" href="Test/test.css">
+		<title>Surf House</title>
+	</head>
+	<body>
+		<div class="header">
+			<header>
+				<div class="logo_img">
+					<a href="index.html"></a>
+				</div>
+				<div class="box_welcome">
+					<h1>welcome to surfhouse</h1>
+					<p>
+						The only online store you 
+						will ever need for all your 
+						windsurfing and kitesurf-ing and SUP needs
+					</p>
+				</div>
+				<div class="header_social_menu">
+					<ol>
+						<li><a href="" target="_blank"><i class="fa fa-facebook"></i></a></li>
+						<li><a href="" target="_blank"><i class="fa fa-twitter"></i></a></li>
+						<li><a href="" target="_blank"><i class="fa fa-youtube"></i></a></li>
+						<li><a href="" target="_blank"><i class="fa fa-pinterest-p"></i></a></li>
+						<li><a href="" target="_blank"><i class="fa fa-instagram"></i></a></li>
+					</ol>
+				</div>
+			</header>
+		</div>
+		<div class="container">
+			<div class="left_container">
+				<div class="title_menu">
+					<span>Menu</span>
+				</div>
+				<nav>
+					<ol>
+						<li><a href="">About</a></li>
+						<li><a href="">Apparel</a></li>
+						<li><a href="">Surf Apparel</a></li>
+						<li>
+							<a href="">Windsurf</a>
+							<ul class="second_menu">
+								<li><a href="">Kites</a></li>
+								<li><a href="">Kiteboards</a></li>
+								<li>
+									<a href="">Bags</a>
+									<ul class="third_menu">
+										<li><a href="">MAGIC Kit</a></li>
+										<li><a href="">Pro limit s0214</a></li>
+									</ul>
+								</li>
+								<li><a href="">Equipment</a></li>
+							</ul>
+						</li>
+						<li><a href="">Kitesurf</a></li>
+						<li><a href="">Accessories</a></li>
+						<li><a href="">Sale</a></li>
+						<li><a href="">Brands</a></li>
+						<li><a href="">Blog</a></li>
+						<li><a href="">Gadgets</a></li>
+						<li><a href="">Cantact</a></li>
+						<li><a href="">Electronic Gadgets</a></li>
+					</ol>
+				</nav>
+				<div class="box_advertising">
+					<a href="">
+						<img src="images/index/content/how.jpg" alt="Now is open!">
+						<p>Now is open!</p>
+					</a>
+				</div>
+			</div>
+			<div class="main-container">
+				<main>
+					<h3>New products</h3>
+					<div class="product">
+						<div class="product_nav">					
+							<div class="product_nav_img">
+								<div class="fon_img_product_nav_1"></div>
+								<div class="full_img">
+									<div class="fon_img_product_nav_1">											
+									</div>
+								</div>		
+							</div>
+							<div class="status_marker">
+								<div class="corner_new">
+									<span>new</span>
+								</div>
+							</div>
+							<div class="description_nav">
+								<div class="description_nav_name">
+									<span>Single Thruster 2014</span>
+								</div>
+								<div class="description_nav_price">
+									<span class="euro">865.00</span>
+								</div>
+								<div class="description_nav_old_price">
+									<span></span>
+								</div>
+							</div>						
+						</div>
+						<div class="product_nav">
+							<div class="product_nav_img">
+								<div class="fon_img_product_nav_2"></div>
+								<div class="full_img">
+									<div class="fon_img_product_nav_2">											
+									</div>
+								</div>		
+							</div>
+							<div class="status_marker">
+								<div class="corner_hot">
+									<span>hot</span>
+								</div>
+							</div>
+							<div class="description_nav">
+								<div class="description_nav_name">
+									<span>Freestyle Wave FSW</span>
+								</div>
+								<div class="description_nav_price">
+									<span class="euro">770.50</span>
+								</div>
+								<div class="description_nav_old_price">
+									<span class="euro">1,270.15</span>
+								</div>
+							</div>	
+						</div>
+						<div class="product_nav">
+							<div class="product_nav_img">
+								<div class="fon_img_product_nav_2"></div>
+								<div class="full_img">
+									<div class="fon_img_product_nav_2">											
+									</div>
+								</div>		
+							</div>
+							<div class="status_marker">
+								<div class="corner_hot">
+									<span>hot</span>
+								</div>
+							</div>
+							<div class="description_nav">
+								<div class="description_nav_name">
+									<span>The White Collection
+SURFBOARD 2014</span>
+								</div>
+								<div class="description_nav_price">
+									<span class="euro">770.50</span>
+								</div>
+								<div class="description_nav_old_price">
+									<span class="euro">1,270.15</span>
+								</div>
+							</div>	
+						</div>
+						<div class="product_nav" style="background: #ff0000">
+							
+						</div>
+						<div class="product_nav" style="background: #ff0000">
+							
+						</div>
+						<div class="product_nav" style="background: #ff0000">
+							
+						</div>
+						<div class="product_nav" style="background: #ff0000">
+							
+						</div>
+						<div class="product_nav" style="background: #ff0000">
+							
+						</div>
+						<div class="after_float"></div>
+					</div>
+					<h3>Top products</h3>
+					<div class="test4">
+						
+					</div>
+					<h3>Top products</h3>
+					<div class="test3">
+						
+					</div>
+					<h3>Sale products</h3>
+					<div class="test1">
+						
+					</div>
+				</main>
+				<div class="brand_block test3">
+					
+				</div>
+				<div class="insta_block test2">
+					
+				</div>
+				<div class="network_blok test1">
+					
+				</div>
+			</div>
+		</div>
+		<div class="test3" style="clear: both;">
+			
+		</div>
+		<!--<div class="background_footer">
+			
+		</div>-->
+	</body>
+</html>
